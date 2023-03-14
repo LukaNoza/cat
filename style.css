@@ -11,10 +11,22 @@
     justify-content: center;
     }
 
+.h11{
+        position: relative;
+        justify-content: center;
+        }
+
+.puss1{
+    position: absolute;
+    height: 400px;
+    width: 700px;
+    justify-content: center;
+    
+}
 .puss{
     position: absolute;
-    height: 70%;
-    width: 70%;
+    height: 400px;
+    width: 700px;
     justify-content: center;
     
 }
