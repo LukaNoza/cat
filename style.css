@@ -1,0 +1,25 @@
+
+
+.cet{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.h1{
+    position: absolute;
+    justify-content: center;
+    }
+
+.puss{
+    position: absolute;
+    height: 70%;
+    width: 70%;
+    justify-content: center;
+    
+}
+
+.p{
+    position: absolute;
+    justify-content: center;
+}
