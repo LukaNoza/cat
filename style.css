@@ -1,36 +1,38 @@
 
 
 .content-sidebar-wrap{
-    margin: 110 auto 30px;
-    max-width: 50 !important;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
 }
 
 .h1{
-    position: absolute;
-    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
     }
 
 .h11{
-        position: relative;
-        justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
         }
 
-.puss1{
-    position: absolute;
+
+    
+
+
+.puss1 {
     height: 400px;
     width: 700px;
-    justify-content: center;
-    
-}
-.puss{
-    position: absolute;
-    height: 400px;
-    width: 700px;
-    justify-content: center;
-    
+    display: block;
+    margin: auto;
+    width: 90%;
 }
 
+
+
 .p{
-    position: absolute;
-    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
