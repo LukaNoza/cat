@@ -1,9 +1,8 @@
 
 
-.cet{
-    display: flex;
-    justify-content: center;
-    position: relative;
+.content-sidebar-wrap{
+    margin: 110 auto 30px;
+    max-width: 50 !important;
 }
 
 .h1{
